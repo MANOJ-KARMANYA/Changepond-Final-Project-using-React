@@ -1,14 +1,3 @@
-THIS IS ONLY RAR FILE WE NEED TO EXTRACT IT AND INSTALL ALL DEPENDENCY FROM THE JSON.PACKAGES IN THE TERMINAL AS NPM SINGLE LINE CMD AND THEN RUN THE npm start CMD IN TERMINAL, HOPEFULLY IT SHOULD WORK!!
-
-1. Install All Dependency Files as single NPM CMD
-2. Install :- npm install 
-3. Just change the path directory (If and only required)
-
-That's It....
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
